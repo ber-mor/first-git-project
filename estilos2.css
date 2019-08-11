@@ -1,0 +1,12 @@
+body{
+	font-size:16px;
+}
+
+p a,p b{
+	font-size: 25px;
+}
+
+ul{
+	background: #000000;
+	color: #ffffff;
+}
